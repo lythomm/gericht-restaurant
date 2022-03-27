@@ -11,7 +11,7 @@ const AboutUs = () => (
 
     <div className='app__aboutus-content flex__center'>
       <div className='app__aboutus-content_about'>
-        <h1 className='headtext__comorant'>About Us</h1>
+        <h1 className='headtext__comorant' style={{ color: '#ffffff'}}>About Us</h1>
         <img src={images.spoon} alt="about_spoon" className='spoon__img'/>
         <p className='p__opensans'>Lorem ipsum Dolor si aternt, Consecteteur Adipiscing Elit. Quis Pharmacis Adipiscing Ultricies Vulputate Posuere Tristique. In Sed Odio Nec Aliquet Eu Proin Mauris Et.</p>
         <button type="button" className='custom__button'>Know More</button>
@@ -22,7 +22,7 @@ const AboutUs = () => (
       </div>
 
       <div className='app__aboutus-content_history'>
-        <h1 className='headtext__comorant'>Our History</h1>
+        <h1 className='headtext__comorant' style={{ color: '#ffffff'}}>Our History</h1>
         <img src={images.spoon} alt="about_spoon" className='spoon__img'/>
         <p className='p__opensans'>Lorem ipsum Dolor si aternt, Consecteteur Adipiscing Elit. Quis Pharmacis Adipiscing Ultricies Vulputate Posuere Tristique. In Sed Odio Nec Aliquet Eu Proin Mauris Et.</p>
         <button type="button" className='custom__button'>Know More</button>
