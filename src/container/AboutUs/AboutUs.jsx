@@ -10,7 +10,7 @@ const AboutUs = () => (
     </div>
 
     <div className='app__aboutus-content flex__center'>
-      <div className='app__aboutus-content_aboutus'>
+      <div className='app__aboutus-content_about'>
         <h1 className='headtext__comorant'>About Us</h1>
         <img src={images.spoon} alt="about_spoon" className='spoon__img'/>
         <p className='p__opensans'>Lorem ipsum Dolor si aternt, Consecteteur Adipiscing Elit. Quis Pharmacis Adipiscing Ultricies Vulputate Posuere Tristique. In Sed Odio Nec Aliquet Eu Proin Mauris Et.</p>
