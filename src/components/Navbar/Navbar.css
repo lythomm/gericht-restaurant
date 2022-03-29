@@ -36,7 +36,7 @@
     font-family: var(--font-base);
 }
 
-.app__navbar-links li:hover {
+.app__navbar-links a:hover {
     color: var(--color-golden);
 }
 
